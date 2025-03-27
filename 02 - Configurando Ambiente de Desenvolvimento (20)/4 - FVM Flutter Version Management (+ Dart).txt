@@ -1,0 +1,21 @@
+Aula 19, 22 e 23
+
+FVM serve para gerenciar as versões do flutter e o ideal é ser usado globalmente
+
+Instalando FVM:
+    !!! Caso vai usar o FVM mas antes configurou o nativo, remova as variaveis de ambiente que apontam para o fluter antigo
+    Roda o comando 'choco install fvm' aceitando tudo
+    Rode 'fvm releases' para ver as versões disponiveis
+    Rode 'fvm global stable' Para setar o flutter estavel globalmente
+    Quando rodar o ultimo comando, vai mostar a pasta bin, copie o caminho da pasta no Path de variaveis de ambiente
+    rode 'flutter --version' e 'flutter doctor'
+
+    Caso queira mudar o flutter, use o comando 'fvm global 2.X.P.T.O'
+
+Dart:
+    para rodar comandos Dart que sejam compativeis com o flutter global, use sempre fvm antes, ex: 'fvm dart --version'
+    Caso vc não use o fvm, ele vai usar o dart local da sua maquina que pode ser incompativel com oq o flutter precisa
+    
+    Caso queria usar uma Lib ou Plugin do dart e queira usar globalmente:
+        utilize 'fvm dart pub global activate seu_pacote' e quando rodar, é para aparecer o caminho onde esta instalado (Geralmente esta escrito no Warning: ...)
+        Com esse caminho, copie e cole no path das variaveis de ambiente, e assim ficará global

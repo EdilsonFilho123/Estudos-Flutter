@@ -1,0 +1,6 @@
+Aula 28
+
+Dart:
+    Dart é 100% Orientado a Objeto
+    Se no dart tiver variaveis ou funções jogadas fora da main, ele ainda vai funcionar e são consideradas 'de nivel superior' ou 'globais', apesar de não ser recomendado.
+    Não exite tipo primitivo no Dart, TODOS os tipos são objeto, desde o int, null até uma classe criada por nós.

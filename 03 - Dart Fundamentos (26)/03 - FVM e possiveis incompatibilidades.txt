@@ -1,0 +1,10 @@
+Aula 29
+
+FVM
+    O VS Code pode tentar rodar seu projeto com a versão do Dart instalada no seu PC e não a versão do Dart do FVM
+    Para isso, vá no arquivo settings.json da pasta .vscode do seu projeto
+        Caso ela ainda não existe, crie
+        Caso ela não apareça, vá em File > Preferences > Settings, pesquise por 'exclude' e tire o .vscode da lista
+        em settings.json, crie/altere o atributo "dart.sdkPath" com o valor que aponta pro bin do FVM q vc setou na variaveis de ambiente concatenada com 'cache/dart-sdk' (ex: 'C:/Users/DEV/fvm/default/bin/cache/dart-sdk')
+        Caso vc queira setar globalmente, vá em File > Preferences > Settings, pesquise por 'sdkPath' do Dart, vá em Edit in settings.json e altere o valor lá
+        Lembrando q ele pega o dart pelo cache do fvm, se vc alterar a versão do flutter, feche e abra o vscode dnv pra puxar o dart atual.

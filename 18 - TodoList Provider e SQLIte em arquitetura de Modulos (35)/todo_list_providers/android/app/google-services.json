@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "32801833028",
+    "project_id": "todo-list-provider-e2a8c",
+    "storage_bucket": "todo-list-provider-e2a8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32801833028:android:0874a157190380c1d27c11",
+        "android_client_info": {
+          "package_name": "br.com.academiadofluter.todo_list_providers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32801833028-1d8kmfq1bsfdpupria1rlgab91gn30ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzpMGStRu_uLvVAPR-DV0tJTLhmwJVyV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32801833028-1d8kmfq1bsfdpupria1rlgab91gn30ou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32801833028-njckuco482fg4bm4vf8ic2kh9je40a3v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.academiadofluter.todoListProviders"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32801833028:android:bed4b77b9cc18bb6d27c11",
+        "android_client_info": {
+          "package_name": "br.com.academiadoflutter.todo_list_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32801833028-m3a1rgktpc4fu86d2rgaa0aeenc4j21e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.academiadoflutter.todo_list_provider",
+            "certificate_hash": "6ffaf34bb57326b9ea2f8c1d4fe8ce317896e131"
+          }
+        },
+        {
+          "client_id": "32801833028-1d8kmfq1bsfdpupria1rlgab91gn30ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzpMGStRu_uLvVAPR-DV0tJTLhmwJVyV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32801833028-1d8kmfq1bsfdpupria1rlgab91gn30ou.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32801833028-njckuco482fg4bm4vf8ic2kh9je40a3v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.academiadofluter.todoListProviders"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

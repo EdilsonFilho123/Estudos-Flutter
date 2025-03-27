@@ -1,0 +1,74 @@
+{
+    "alunos": [
+        {
+            "id": "1",
+            "nome": "Florinda Mesa",
+            "idade": 74,
+            "telefone": {
+                "ddd": 11,
+                "telefone": "999999999"
+            },
+            "endereco": {
+                "rua": "XPTO",
+                "numero": 123,
+                "CEP": "01010000",
+                "cidade": {
+                    "id": 1,
+                    "nome": "Limera"
+                }
+            },
+            "cursos": [
+                {
+                    "id": 1,
+                    "nome": "Flutter"
+                },
+                {
+                    "id": 2,
+                    "nome": "GetX"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "nome": "Juster Bryan",
+            "idade": 27,
+            "telefone": {
+                "ddd": 19,
+                "telefone": "999999999"
+            },
+            "endereco": {
+                "rua": "XPTO2",
+                "numero": 321,
+                "CEP": "01010000",
+                "cidade": {
+                    "id": 2,
+                    "nome": "Campinas"
+                }
+            },
+            "cursos": [
+                {
+                    "id": 3,
+                    "nome": "PHP"
+                },
+                {
+                    "id": 4,
+                    "nome": "CodeIgniter"
+                }
+            ]
+        }
+    ],
+    "products": [
+        {
+            "id": "0",
+            "title": "Flutter 2"
+        },
+        {
+            "id": "1",
+            "title": "React Native"
+        },
+        {
+            "title": "Ionic",
+            "id": "2"
+        }
+    ]
+}

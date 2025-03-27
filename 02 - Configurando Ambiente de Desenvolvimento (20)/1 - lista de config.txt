@@ -1,0 +1,48 @@
+Aulas 06 - 08
+
+Instalar Chocotaley:
+    https://chocolatey.org/install
+
+    rodar no cmd administrativo
+    Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
+    Após processo, deve se digitar 'choco' no terminal e ele deverá mostrar a versão se estiver tudo OK
+
+Instalar Git:
+    rodar comando 'choco install git' cmd administrativo
+    Após processo, deve se digitar 'git' no terminal e ele deverá mostrar um helper do git se estiver tudo OK
+
+Instalar JDK (minimo 11):
+    Baixar o Installer no link https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html
+
+    !!! Se deve salvar o JDK na pasta 'C:/DevPrograms/jdk/jdk11'
+
+    Reconfigurar variaveis de ambiente, eliminando no path os 'Oracle/Java/javapath' (Aqui, se digitar java no cmd, não é pra encontrar...)
+    Criar link simbolico no powershell Adm com o comando 'New-Item -ItemType SymbolicLink -Path "C:\DevPrograms\jdk\current" -Target "C:\DevPrograms\jdk\jdk11"'
+    O Link criado aponta para a pasta jdk11
+
+    Criar Variavel de ambiente com o nome JAVA_HOME com o valor "C:\DevPrograms\jdk\current"
+    Add no PATH %JAVA_HOME%\bin
+    Feche e abre dnv o powershell e digite 'java --version' e se exibir a versão, está OK
+
+    Agora dá pra chavear as versões rodando o comando de criar link simbólico com o '-Force'
+
+Android Studio
+    Baixar o .exe no https://developer.android.com/studio?hl=pt-br
+
+    Finalizar a instalação e aceitar os termos para baixar as SDKs
+    Finalizando downloads e instalações e abrir tela de "Welcome to Android Studio" para criar um novo projeto ir em 'More Actions' (ou 3 pontinhos) e clickar em SDK Manager
+    Na Aba Android SDK e na subAba SDK Platforms, irá aparecer o Android SDK Location com o caminho do SDK do Android Studio
+    Crie 2 variaveis de ambiente, chamadas ANDROID_HOME e ANDROID_SDK_ROOT, em ambas cole o caminho do SDK do Android Studio como valor
+    No PATH, deve inserir '%ANDROID_HOME%\tools' e '%ANDROID_HOME%\platform-tools'
+    Se abrir um novo PowerShell e digitar 'adb' e aparecer listas de comando, esta OK
+
+    Voltando na Aba Android SDK e na subAba SDK Platforms, selecione o Android 11.0 e Android 12.0
+    Depois em SDK Tools, desmarque o checkbox hide Obsolate Packages e selecione o Android SDK Build-Tools, Android SDK Command-Tools, Android Emulator (caso tenho Rysen, add tbm Android Emulator Htpervisor Driver for AMD), Android SDK Plataform-Tools
+
+    Depois dê apply pra instalar tudo
+
+    Vá para plugins e instale os plugins do Flutter e do Dart
+
+    Em Projetos, vá para Virtual Device Manager, click em Create Device, pesquise por 'Pixel 5' e selecionando ele, certifique de dar suporte ao Android 12 (Ver algo como S Download e API Level 31)
+    Nas configurações avançadas dessa nova Device, jogue pelo menos 3 GB de RAM e 1 GB de armazenamento, deixar Enable Device Frame e Enable keyboard input ativados e dar finish

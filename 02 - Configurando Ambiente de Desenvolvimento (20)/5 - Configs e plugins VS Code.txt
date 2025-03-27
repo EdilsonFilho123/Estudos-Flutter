@@ -1,0 +1,15 @@
+Aula 24 e 25
+
+Plugins VS Code:
+    Flutter;
+    Dart (Vai automagico com o Flutter);
+    Awesome Flutter Snippets;
+    Dart Data Class Generator;
+    Flutter & Dart Utilities;
+    bloc;
+    Error Lens;
+    Pubspec Dependency Search;
+
+    Image preview (Opcional);
+    vscode-icons (Opcional);
+    IntelliJ IDEA Keybindings (Opcional);

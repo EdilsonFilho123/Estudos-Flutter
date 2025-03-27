@@ -1,0 +1,8 @@
+Aula 18
+
+Instalando Flutter
+    Entre na pasta C:\DevPrograms, abra um terminal e rode 'git clone https://github.com/flutter/flutter.git -b stable'
+    Crie uma Variavel de ambiente chamada 'FLUTTER_HOME' apontando pra 'C:\DevPrograms\flutter'
+    No PATH add '%FLUTTER_HOME%\bin'
+
+    Rodar 'flutter --version' e 'flutter doctor' e resolva posiveis problemas

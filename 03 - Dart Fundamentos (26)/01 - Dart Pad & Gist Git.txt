@@ -1,0 +1,12 @@
+Aula 26 e 27
+
+DartPad:
+    https://dartpad.dev
+    DartPad é uma 'IDE' online da Google, ideal para testar lógica de maneira isolada e rápida.
+    o DartPad possui exemplos tanto pra Dart quanto pro Flutter
+
+GitHub Gist:
+    https://gist.github.com
+    No gist, vc pode compartilhar códigos de maneira rapida com outras pessoas através do link.
+    Porém vc pd usar o hash da URL do gist no DartPad, se o arquivo for um .dart
+    ex: https://gist.github.com/user_name/hashg1gant32c0 -> https://dartpad.dev/hashg1gant32c0

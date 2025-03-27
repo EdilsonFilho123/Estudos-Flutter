@@ -1,0 +1,43 @@
+
+
+Criação de projeto:
+    O melhor jeito e mais customizavel de se criar um projeto Flutter é pela linha de comando:
+    flutter create --project-name=flutter_primeiros_passos --org br.com.academiadofluter  --platforms android,ios -a kotlin -i swift ./flutter_primeiros_passos
+    flutter create 
+        --project-name=nome_do_seu_projeto  -> nome do projeto
+        --org br.com.academiadofluter       -> dominio da corporação invertendo ao ordem do dominio
+        --platforms android,ios             -> plataformas q vai rodar o app
+        -a kotlin                           -> linguagem q vai rodar no android
+        -i swift                            -> linguagem q vai rodar no ios
+        ./nome_do_seu_projeto               -> pasta q vai salvar o projeto
+
+Device teste:
+    para rodar o device no VS Code, vc já deve ter criado ele no android studio, e depois é abrir o projeto no VSCode e clicar no canto inferior-direito em 'No device'
+    Se for device fisico, plug o celular e selecione ele como device no VSCode (Precisa estar no modo desenvolvedor e habilitar depurar por USB e manter conectado USB)
+
+Propiedades do projeto
+    Projeto Flutter é semelhante ao Dart, porem ele vai ter pastas representando os projetos por plataforma, 
+    Cada plataforma possui seu "proprio projeto" para upar o projeto na app store deles
+    possui uma pasta tbm uma pasta propria para build 
+
+Versões do flutter:
+    o Flutter possui 4 canais de versões:
+        - master -> terra de ninguém, ambiente onde os caras da google trabalham para gerar uma nova versão
+        - dev -> será descontinuada mas é semelhante ao master
+        - beta -> sendo uma evolução da master, seria uma versão quase pronta, feita para realizar testes pesados e identificar falhas
+        - stable -> versão estável e segura para uso (Unica propria pra uso)
+
+Comandos basicos do flutter:
+    flutter --version (ver são atual de trabalho)
+    flutter upgrade (atualiza o canal, e caso troque de canal. tem q rodar o upgrade dnv)
+    flutter channel <canal_desejavel> (seta qual canal: master, dev, beta, stable ou a versão exata do flutter)
+    flutter doctor (Vê se está tudo OK com a versão do flutter atual)
+
+Versões do projeto:
+    Quando for atualizar a versão do flutter DO PROJETO, se deve atentar a versão do SDK do dart tbm
+    Para saber a versão ideal do Dart para usa versão do Flutter, verifique se sua versão do flutter local é igual a do projeto, se for, no proprio flutter --version vai dizer qual versão do dart ele usa
+    Tenta sempre manter atualizado todas as dependencias tbm
+
+Java:
+    Ao executar o projeto, talves ele esteja puxando a versão do java não global e sim do Android Studio.
+    Para isso, vá em android > gradle.properties e add org.gradle.java.home=C:/DevPrograms/jdk/current

@@ -1,0 +1,19 @@
+Aula 30 a 32
+
+terminal:
+    dart create -t console-full nome_do_seu_projeto
+
+VS Code:
+    Ctrl + Shift + P > Dart: new project
+
+Projeto Dart:
+    bin: pasta com arquivo de start
+    lib: pasta com arquivos da nossa aplicação
+    test: pasta com arquivos de testes
+    .gitignore: arquivo git para ignorar certas pastas e arquivos na hora de upar o projeto
+    .packages (ou .dart_tool/package_config.json): Mapeamento interno dos pacotes gerado automagicamente
+    analysis_options.yaml: o intuito é analizar o projeto para saber se ele esta no padrão
+    CHANGELOG.md: Arquivo onde vc deve dizer quais foram as ultimas mudanças
+    pubspec.lock: arquivo com as dependencias exatas (tipo um package-lock)
+    pubspec.yaml: arquivo que diz quais são as dependencias.
+    READEME.md: Arquivo com informações gerais do projeto

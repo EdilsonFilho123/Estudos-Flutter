@@ -1,0 +1,14 @@
+Aula 16
+
+Ative o modo desenvolvedor:
+    Vá em Configurações > Sobre o telefone > Informações do Software > Número de compilação e clique 10 vezes
+    Em Configurações > Opções do desenvolvedor, habilite o 'Permanecer Ativo' e 'Deburação USB'
+
+Vysor ou Scrcpy
+    Preferivel Vysor por consumir menos, porém é levemente limitado na versão Packages
+
+    Vysor:
+        Faz download em https://www.vysor.io/, pluga o cabo no celular, aceite acesso no celular e start no vysor
+
+    Scrcpy:
+        No PowerShell Admin, rode 'choco install scrcpy' e depois rode 'scrcpy' e caso n abra de cara, rode 'scrcpy -s ID_DO_SEU_CELULAR'
