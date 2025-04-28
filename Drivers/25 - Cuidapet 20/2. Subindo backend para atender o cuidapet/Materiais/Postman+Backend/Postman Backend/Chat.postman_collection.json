@@ -1,0 +1,153 @@
+{
+	"info": {
+		"_postman_id": "1c46e160-7817-4bd5-934f-d97dd9d6ee32",
+		"name": "Chat",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Start Chat",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "{{access_token}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{server_url}}/chats/schedule/:scheduleId/start-chat",
+					"host": [
+						"{{server_url}}"
+					],
+					"path": [
+						"chats",
+						"schedule",
+						":scheduleId",
+						"start-chat"
+					],
+					"variable": [
+						{
+							"key": "scheduleId",
+							"value": "8"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "End Chat",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "{{access_token}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{server_url}}/chats/:chatId/end-chat",
+					"host": [
+						"{{server_url}}"
+					],
+					"path": [
+						"chats",
+						":chatId",
+						"end-chat"
+					],
+					"variable": [
+						{
+							"key": "chatId",
+							"value": "3"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Notify User/Supplier",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "{{access_token}}",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"chat\": 6,\n    \"message\": \"Deu problema aqui\",\n    \"to\": \"U\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{server_url}}/chats/notify",
+					"host": [
+						"{{server_url}}"
+					],
+					"path": [
+						"chats",
+						"notify"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Find All By User",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "{{access_token}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{server_url}}/chats/user",
+					"host": [
+						"{{server_url}}"
+					],
+					"path": [
+						"chats",
+						"user"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Find All By Supplier",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "{{access_token}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{server_url}}/chats/supplier",
+					"host": [
+						"{{server_url}}"
+					],
+					"path": [
+						"chats",
+						"supplier"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

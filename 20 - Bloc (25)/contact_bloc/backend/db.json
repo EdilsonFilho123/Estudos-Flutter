@@ -1,0 +1,28 @@
+{
+    "contacts": [
+        {
+            "id": 0,
+            "name": "Robert",
+            "email": "robert@gmail.com"
+        },
+        {
+            "id": 1,
+            "name": "Carls",
+            "email": "carls@gmail.com"
+        }
+    ],
+    "products": [
+        {
+            "id": "0",
+            "title": "Flutter 2"
+        },
+        {
+            "id": "1",
+            "title": "React Native"
+        },
+        {
+            "title": "Ionic",
+            "id": "2"
+        }
+    ]
+}

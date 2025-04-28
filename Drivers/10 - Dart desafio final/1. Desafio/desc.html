@@ -1,0 +1,13 @@
+<p>​<span>Script para criação da tabela no banco de dados:</span></p>
+<pre>CREATE TABLE estado (
+&nbsp; id int not null primary key auto_increment,
+&nbsp; uf varchar(2),
+&nbsp; nome varchar(255)
+);
+CREATE TABLE cidade (
+&nbsp; id int not null primary key auto_increment,
+&nbsp; id_uf int,
+&nbsp; nome varchar(255),
+&nbsp; &nbsp;FOREIGN KEY (id_uf)
+&nbsp; &nbsp; &nbsp; REFERENCES estado(id)
+);​</pre>

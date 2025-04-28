@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173586712550",
+    "project_id": "fir-estudos-flutter",
+    "storage_bucket": "fir-estudos-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173586712550:android:bcb5edfa9af7653e743827",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1gCCiG-NXMgiXwpZbzVKWWwtl8VTzYoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

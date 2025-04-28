@@ -1,0 +1,15 @@
+<p>​<span>​Obs:</span></p>
+<p>As últimas versões do flutter_screenutils não precisa mais setar o buildContext dentro dele e recebemos novos parametros também, nós corrigimos isso mais pra frente, porém você já pode deixar correto no seu projeto:&nbsp;</p>
+<hr>
+<pre>​return ScreenUtilInit(
+&nbsp; &nbsp; &nbsp; designSize: const Size(390, 844),
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;builder: (_, __) =&gt; MaterialApp.router(
+&nbsp; &nbsp; &nbsp; &nbsp; title: 'Cuidapet',
+&nbsp; &nbsp; &nbsp; &nbsp; debugShowCheckedModeBanner: false,
+&nbsp; &nbsp; &nbsp; &nbsp; builder: (context, child){
+&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;return asuka.builder(context, child);
+&nbsp; &nbsp; &nbsp; &nbsp; },
+&nbsp; &nbsp; &nbsp; &nbsp; theme: ThemeData(primarySwatch: Colors.blue),
+&nbsp; &nbsp; &nbsp; &nbsp; routeInformationParser: Modular.routeInformationParser,
+&nbsp; &nbsp; &nbsp; &nbsp; routerDelegate: Modular.routerDelegate,
+&nbsp; &nbsp;&nbsp;&nbsp; ),</pre>

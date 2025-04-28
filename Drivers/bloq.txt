@@ -1,0 +1,1078 @@
+Módulo: Introdução
+	Aula: Boas Vindas
+	Aula: Acesso a comunidade
+	Aula: Regras da comunidade
+	Aula: Entenda um pouco sobre o discord
+	Aula: Sobre o curso
+Módulo: Configurando Ambiente de Desenvolvimento
+	Aula: Entendendo o módulo (Importante não pule esse vídeo)
+	Aula: Configurando ambiente Windows
+	Aula: Configurando ambiente Linux
+	Aula: Configurando ambiente MacOs
+	Aula: Habilitando device físico como emulador
+	Aula: FVM ou Flutter Nativo
+	Aula: Instalando Flutter Nativo
+	Aula: FVM Instalação e configuração
+	Aula: Dart e FVM
+	Aula: VsCode instalação e configuração do Dart e Flutter
+	Aula: Turbinando VsCode
+Módulo: Dart Fundamentos
+	Aula: DartPad
+	Aula: Conceitos importantes
+	Aula: Se você usa FVM (Assista essa aula antes de continuar)
+	Aula: Primeiro Projeto
+	Aula: Variáveis
+	Aula: Modificadores (Const e Final)
+	Aula: Operadores e condicionais
+	Aula: Switchs
+	Aula: Trabalhando com nulos
+	Aula: Listas
+	Aula: Loops
+	Aula: Conversões e Manipulações
+	Aula: Como fazer debug de uma aplicação
+	Aula: Desafio
+	Aula: Resolução do Desafio (Só assista se já tentou fazer o exercício)
+Módulo: Dart Funções e Coleções
+	Aula: Introdução
+	Aula: Funções, Parâmetros, Anônimas e Typedef
+	Aula: Listas
+	Aula: Referência de memória
+	Aula: Sets
+	Aula: Maps
+	Aula: Exceptions
+	Aula: Imports
+	Aula: Enums
+	Aula: Desafio
+	Aula: Resolução do Desafio (Só assista se já tentou fazer o exercício)
+Módulo: Dart POO( Programação Orientada a Objeto)
+	Aula: Fundamentos
+	Aula: Classes
+	Aula: Construtores
+	Aula: Herança
+	Aula: Associação (Composição e Agregação)
+	Aula: Polimorfismo
+	Aula: Interfaces
+	Aula: Auto Promoção de Tipos
+	Aula: Mixins
+	Aula: Cascade Notation
+	Aula: Callable Class
+	Aula: Operator Methods
+	Aula: Assignment operators
+	Aula: Equals, Hashcode e ToString
+	Aula: Ordenação default (Comparable)
+	Aula: Asserts
+	Aula: Modificador Const (Construtor)
+	Aula: Extensions
+	Aula: Metadatas (Annotations)
+	Aula: Getters e Setters
+	Aula: Constructors Tear-off
+	Aula: Tipos Genéricos
+Módulo: Dart Async
+	Aula: Async (Assincronismo)
+	Aula: Futures
+	Aula: Async Await
+	Aula: Future.forEach e Future.wait
+	Aula: Event Loop na VM Dart
+	Aula: Rest e RestFull
+	Aula: Adicionando códigos de terceiro ao nosso projeto pub.dev
+	Aula: Trabalhando com Http
+	Aula: Trabalhando com modelos
+	Aula: Repository Pattern
+	Aula: Trabalhando com Arquivos
+Módulo: Dart Streams
+	Aula: Introdução
+	Aula: Stream.periodic e await for
+	Aula: Parando uma Stream com Take e TakeWhile
+	Aula: Descartando dados com Skip e SkipWhile
+	Aula: .toList recebendo todos os dados de uma vez só
+	Aula: Escutando nossa stream com Listener
+	Aula: Filtrando dados com Where
+	Aula: Vários ouvintes na stream com .asBroadcast
+	Aula: StreamController
+Módulo: Dart Banco de dados
+	Aula: Instalação, criação do projeto e conexão com o banco de dados
+	Aula: Execução e criando transação (Commit e Rollback)
+Módulo: Dart Consumo de APIs
+	Aula: Princípios
+	Aula: Subindo backend dartion
+	Aula: Entendendo o porque existe cada camada
+	Aula: Interpretando nosso JSON e mapeando para o dart
+	Aula: Trabalhando com JSON no Dart
+	Aula: Convertendo JSON para Modelos - Aula muito importante!!!
+	Aula: Acessando nosso backend
+	Aula: Desafio
+Módulo: Dart desafio final
+	Aula: Desafio
+Módulo: Flutter primeiros passos
+	Aula: Criando emulador android
+	Aula: Criando seu primeiro projeto pela linha de comando e abrindo no Android Studio e VsCode
+	Aula: Criando seu primeiro projeto pelo Android Studio
+	Aula: Criando seu primeiro projeto no Visual Studio Code
+	Aula: Iniciando o emulador do IOS (Iphone) e Rodando o seu projeto nele
+	Aula: Preparando e rodando seu aplicativo no Aparelho Físico Android
+	Aula: Entendendo o projeto Flutter e suas dependências
+	Aula: Entendendo os canais (channels Stable, Beta, Master) do Flutter
+	Aula: Entendendo como atualizar o Flutter e seu projeto
+	Aula: Entendendo como fazer debug de uma aplicação Flutter
+Módulo: Flutter Fundamentos
+	Aula: O que é Flutter
+	Aula: Widget o que é
+	Aula: StatelessWidget e StatefulWidget
+	Aula: Árvore de Componentes
+	Aula: Ciclo de vida
+	Aula: Executando funções depois da tela pronta (addPostFrameCallback)
+Módulo: Flutter mão na massa
+	Aula: Principais Widgets
+	Aula: Container
+	Aula: Imagens
+	Aula: Customizando as fonts
+	Aula: Navegação
+	Aula: Navegação (Customizada e Observada)
+	Aula: Aguardar retorno de parâmetros na navegação
+	Aula: PopupMenuButton
+	Aula: Rows e Columns
+	Aula: MediaQuery
+	Aula: Device Preview Package
+	Aula: LayoutBuilder
+	Aula: Botões e Rotação de Texto
+	Aula: SingleChildScrollView e ListView
+	Aula: Dialogs
+	Aula: Identificando a plataforma e mostrando o componente correto
+	Aula: BuildContext
+	Aula: Theme (Customizando o seu Tema)
+	Aula: Snackbar (Mensagens para o usuário)
+	Aula: Trabalhando com formulários
+	Aula: Lendo arquivo json do Assets
+	Aula: Stack
+	Aula: BottomNavigatorBar & IndexedStack
+	Aula: CircleAvatar
+	Aula: Trabalhando com cores
+	Aula: Material Banner
+	Aula: Desafio
+Módulo: Flutter Gerência de Estado
+	Aula: O que vamos ver nesse módulo
+	Aula: Criando projeto e montando layout
+	Aula: Construindo tela com setState
+	Aula: Construindo tela com ValueNotifier
+	Aula: Construindo tela com ChangeNotifier
+	Aula: Construindo tela com Bloc Pattern(Stream)
+Módulo: InheritedWidget
+	Aula: Implementando InheritedWidget
+	Aula: Entendendo arvore de widgets com Dart DevTools
+Módulo: Sqlite com Flutter
+	Aula: Introdução e criação do projeto
+	Aula: Criando e acessando nossa base de dados
+	Aula: Entendendo como atualizar e voltar versão de banco de dados
+	Aula: Desabilitando auto backup de arquivos do android
+	Aula: Manipulando dados do Sqlite
+Módulo: Package Provider
+	Aula: Provider compartilhando objetos simples
+	Aula: Gerenciando estado com Provider
+Módulo: TodoList Provider e SQLIte em arquitetura de Módulos
+	Aula: Assets do Projeto
+	Aula: Apresentação do projeto
+	Aula: Criando projeto e configurando arquitetura de pastas
+	Aula: Configurando SqliteConnection SqliteADM e Migrations
+	Aula: Arquitetura de Módulos
+	Aula: Construindo layout de Login e configurando tema
+	Aula: Customizando o TextFormField
+	Aula: Construindo layout de tela de cadastro
+	Aula: Adicionando Firebase Auth ao Projeto
+	Aula: Construindo Repository e Service de usuário
+	Aula: Conectando RegisterController aos nossos serviços
+	Aula: Criando utilitários de controle de loader, success, error
+	Aula: Integrando tela de login
+	Aula: Implementando esqueceu sua senha
+	Aula: Google Login
+	Aula: Navegação sem Contexto e configurando home e splash
+	Aula: Identificando de usuário está logado
+	Aula: Alterando nome do usuário
+	Aula: Construindo layout da nossa HomePage
+	Aula: Módulo de cadastro de task
+	Aula: Implementando componente de Filtros de dias
+	Aula: Busca de Tasks (Repository e Service)
+	Aula: Correção na verificação da autenticação
+	Aula: Buscando todos e populando card de filtro
+	Aula: Implementando filtros de tasks
+	Aula: Implementando filtro de dia da semana
+	Aula: Correção do filtro por dia da semana
+	Aula: Finalizando a task e implementando filtro de finalizados
+	Aula: Resolvendo problema de layout no header
+	Aula: Desafio
+	Aula: Entendendo arquitetura e estrutura de pastas
+Módulo: Freezed
+	Aula: Estrutura
+	Aula: Union class e Pattern matching
+Módulo: Bloc
+	Aula: Princípios
+	Aula: Criando nosso primeiro bloc
+	Aula: Um pouco mais de bloc
+	Aula: Entendendo outros widgets do bloc
+	Aula: Enviando parâmetros pelo evento
+	Aula: Desafio
+	Aula: Freezed
+	Aula: Configurando backend para o CRUD
+	Aula: Criando nosso modelo e repository
+	Aula: Implementando busca de contatos
+	Aula: Tratando erros e criando componente de loader
+	Aula: Adicionando pull refresh e direcionamentos para telas
+	Aula: Cadastrando um novo contato
+	Aula: Alterando um contato
+	Aula: Desafio
+	Aula: Resolução do desafio
+	Aula: Cubit
+	Aula: Desafio
+	Aula: Bloc Test (Testes Unitários)
+	Aula: Desafio de testes
+Módulo: Mobx
+	Aula: Fundamentos do Mobx
+	Aula: Mobx com CodeGen e Reactions
+	Aula: Calculadora de IMC com Mobx
+	Aula: ObservableList
+	Aula: Modelo Observado
+	Aula: ObservableFuture
+Módulo: Flutter Modular
+	Aula: Fundamento e configurações
+	Aula: Tipos de Rotas & Navegação
+	Aula: Controle e injeção de dependências
+	Aula: ModularState e Diposable
+Módulo: Splash Screen Nativa
+	Aula: Splash nativa no android
+	Aula: Splash nativa no IOS
+	Aula: Flutter native splash
+Módulo: Firebase
+	Aula: O que é o Firebase e quanto custa
+	Aula: Configurando nosso primeiro projeto no console do Firebase
+	Aula: Configurando Firebase no projeto Flutter
+	Aula: [Firebase-auth] Configurando Firebase Auth e criando um novo usuário
+	Aula: [Firebase-auth] Login com e-mail e senha e verificação de email
+	Aula: [Firebase-auth] Alterando dados complementares do usuário [Nome, foto, email, password]
+	Aula: [Firebase-auth]  Recuperando o usuário logado e registrando um listener de alteração de dados do usuário
+Módulo: Cuidapet 2.0
+	Aula: Apresentação do Projeto
+	Aula: Subindo backend para atender o cuidapet
+	Aula: Criando e configurando projeto e suas dependências
+	Aula: SplashScreen e encapsulamento do screenUtils
+	Aula: Configurando Tema
+	Aula: Iniciando identificação usuário logado
+	Aula: Criando componente de TextField
+	Aula: Adicionando icones ao projeto
+	Aula: Criando componente de botão de rede social
+	Aula: Criando botão default da aplicação
+	Aula: Layout Tela de Login
+	Aula: Layout tela de cadastro por login e senha
+	Aula: Entendendo o fluxo de cadastro de um novo usuário
+	Aula: Resolvendo problema do ScreenUtil e Firebase oAuth2 client already exists
+	Aula: Configurando firebase ao projeto
+	Aula: Configurando variáveis de ambiente (env e remote config)
+	Aula: Encapsulando nosso RestClient (DIO)
+	Aula: Encapsulando logs da aplicação
+	Aula: Encapsulando LocalStorage
+	Aula: Componente de Loader
+	Aula: Componente de Mensagem (Snackbar com Asuka)
+	Aula: Implementando tela de cadastro por e-mail e senha
+	Aula: Conectando tela de cadastro ao backend e firebase
+	Aula: Entendendo o Fluxo de login do Cuidapet
+	Aula: Implementando tela de login (Ligando os pontos)
+	Aula: Login E-mail e Password parte 1 (Firebase)
+	Aula: Login E-mail e Password parte 2 (Backend Login)
+	Aula: AuthInterceptor - adicionando token no header das requisições
+	Aula: Confirmar login e FirebaseMessage
+	Aula: Recuperar dados do usuário logado
+	Aula: Identificando se o usuário já está logado (Login permanente)
+	Aula: Login com rede social (Google parte 1)
+	Aula: Login com rede social (Google parte 2)
+	Aula: Login com rede social (Facebook configuração)
+	Aula: Login com rede social (Facebook finalizando)
+	Aula: Refresh token entendendo o fluxo
+	Aula: Alterando backend para atender o desenvolvimento do refresh token
+	Aula: Implementando Refresh Token
+	Aula: Voltando alterações no backend
+	Aula: Removendo ModularState do projeto
+	Aula: LifeCyclePage - Entendendo processo
+	Aula: LifeCyclePage - Construção
+	Aula: Iniciando módulo de endereço (Montando tela)
+	Aula: Atualizando projeto para Flutter 3
+	Aula: Criando componente de auto_complete
+	Aula: Integrando com Google Places
+	Aula: Finalizando auto_complete e lincando com google places
+	Aula: Configurando Google Maps API
+	Aula: Construindo tela de detalhe de endereço
+	Aula: Configurando Sqlite
+	Aula: Construindo camadas de inclusão de endereço ao sqlite
+	Aula: Cadastrando endereço no sqlite
+	Aula: Buscando endereços cadastrados
+	Aula: Configurando packages de GPS (Geolocation)
+	Aula: Recuperando localização do usuário
+	Aula: Mostrando mensagens de GPS para o usuário
+	Aula: Problema com mobx versão 2.0.7+4
+	Aula: Editando endereço
+	Aula: Selecionando endereço e adicionando o Local Storage
+	Aula: Adicionando componente correto na lista de endereços
+	Aula: Acertos no logout do nosso projeto
+	Aula: Buscando endereço selecionado
+	Aula: Bloqueando saída da tela endereço sem selecionar um endereço
+	Aula: Construindo AppBar da HomePage
+	Aula: Implementando componente de apresentação do endereço
+	Aula: Criando componente de categorias
+	Aula: Construindo busca das categorias no backend
+	Aula: Conectando tela com serviço (categorias)
+	Aula: Criando componentes de Tab (Lista e Grid)
+	Aula: Implementando layout da lista de Pet Shops
+	Aula: Buscando petshops no nosso backend
+	Aula: Fazendo o Link entre tela e backend (Modelo)
+	Aula: Construindo grid de petshops
+	Aula: Conectando dados a tela de grid
+	Aula: Filtrando estabelecimentos por categoria
+	Aula: Filtro por nome
+	Aula: Criando módulo de detalhe de fornecedor
+	Aula: Criando layout da tela de detalhe do fornecedor
+	Aula: Adicionando titulo quando appBar Collapsed
+	Aula: CodeView da implementação
+Módulo: Backend Cuidapet em Dart
+	Aula: Introdução a Backend
+	Aula: Get_it e Injectable principais conceitos
+	Aula: Arquitetura do nosso backend
+	Aula: Informação importante sobre Refactory
+Módulo: Backend - Iniciando nosso projeto (Configuração/Arquitetura)
+	Aula: Instalação e configuração do Dart
+	Aula: Criando o projeto
+	Aula: Configurando variáveis locais (.env)
+	Aula: Configurando Banco de dados mysql
+	Aula: Configurando estrutura de Logs
+	Aula: Configurando Service Locator (get_it, injectable)
+	Aula: Configurando estrutura de Rotas (Shelf-Router)
+Módulo: Backend - Middlewares
+	Aula: Introdução a middlewares no shelf
+	Aula: Construindo Middleware de Cors
+	Aula: Middleware de Default Content Type Response
+	Aula: JWT - Conceitos
+	Aula: Middleware de segurança
+Módulo: Backend - Módulo usuário
+	Aula: Modelagem de dados
+	Aula: Registrar usuário
+	Aula: Login com e-mail e password
+	Aula: Login social
+	Aula: Confirmar login
+	Aula: Postman atualizar variável dinamicamente
+	Aula: Refresh Token
+	Aula: Recuperar usuário logado
+	Aula: Atualizar url avatar
+	Aula: Atualização do Device Token (Para Push Notification)
+Módulo: Backend - Módulo de categorias
+	Aula: Construindo módulo
+	Aula: Construindo Serviço de Buscar todas categorias
+Módulo: Backend - Módulo de Fornecedores
+	Aula: Criando e configurando módulo
+	Aula: Busca de fornecedores por GeoLocation
+	Aula: Busca de fornecedor por id
+	Aula: Buscar serviços de um fornecedor
+	Aula: Verificar se email do usuário existe
+	Aula: Criando novo Fornecedor e usuário
+	Aula: Atualizando dados do Fornecedor
+Módulo: Backend - Migrando Mysql para Null Safety
+	Aula: Migrando Driver do Mysql para Null Safety
+Módulo: Backend - Módulo de Agendamento
+	Aula: Criando módulo
+	Aula: Agendando serviço em um fornecedor
+	Aula: Alterando status do agendamento
+	Aula: Buscar todos agendamentos pelo usuário logado
+	Aula: Buscar todos agendamentos pelo usuário de fornecedor logado
+Módulo: Backend - Módulo de Chat
+	Aula: Criando módulo
+	Aula: Iniciando um chat
+	Aula: Notificando usuário por push
+	Aula: Buscando chats ativos do usuário
+	Aula: Buscando chats ativos do fornecedor
+	Aula: Finalizando um Chat
+Módulo: Backend - Removendo no sound null safety
+	Aula: Acertos para remover o no sound null safety
+Módulo: Publicando Backend na AWS
+	Aula: Apresentação da AWS e criando usuário
+	Aula: Criando o banco de dados no RDS
+	Aula: Criando nosso servidor no EC2
+	Aula: Instalando Dart no servidor
+	Aula: Configurando a Aplicação
+	Aula: Configurando logs e redirecionando para sub-dominio
+	Aula: Escalando sua Aplicação (Vertical e Horizontal)
+Módulo: Testes - Princípios dos Testes
+	Aula: Principais Conceitos
+	Aula: Iniciando no mundo dos testes de unidade
+	Aula: Explorando tipos de verificações
+	Aula: Testando método Assincronos
+	Aula: Introdução a Mocks
+Módulo: Testes - Cuidapet API preparando a arquitetura base dos testes
+	Aula: Adicionando suporte a testes ao projeto
+	Aula: Criando estrutura de fixture test
+	Aula: Introdução ao Mock do MySql
+	Aula: Melhorando arquitetura de mocks do MySql
+Módulo: Testes - Módulo de login do Cuidapet (Repository)
+	Aula: Testando o método createUser
+	Aula: Testando método  loginWithEmailPassword
+	Aula: Testando método loginByEmailSocialKey
+Módulo: Testes - Módulo de Login Cuidapet (Service)
+	Aula: Testando método loginWithEmailPassword
+	Aula: Testando método loginWithSocial
+	Aula: Testando método refreshToken
+Módulo: Testes - Módulo de Login Cuidapet (AuthController)
+	Aula: Testando serviço de login com email e password
+	Aula: Testando servidor de login com rede social
+Módulo: Testes - Módulo de Usuário Cuidapet (UserController)
+	Aula: Testando método update device token
+Módulo: Lives & Conteúdos extras
+	Aula: Construindo uma aplicação com Flutter Bloc e Flutter Modular com arquitetura orientada a package.
+	Aula: Introdução a testes de Widgets e testes Unitários - Live junto com Pedro Massango
+	Aula: Cubit, Freezed e Dartz a triade perfeita (Palestra TDC 2020)
+	Aula: [Live #001] - DIO
+	Aula: [Live #002] - Null Safety
+	Aula: Flutter Navigator 2.0 - Criando um formulário de múltiplos passos (multistep form)
+	Aula: Palestra do Porque usar o Flutter
+	Aula: Palestra Flutter revolucionando o desenvolvimento de aplicativos
+	Aula: FVM - Trabalhando com versões antigas do Flutter
+Módulo: Dicas Rápidas Flutter e Dart
+	Aula: Copy and Paste (Clipboard) sem utilização de package
+Módulo: App Delivery (Com GetX, Shelf  e integração API PIX da Gerencianet)
+	Aula: Apresentando o projeto e configurando servidores de DNS e EC2 AWS
+	Aula: Estruturando banco de dados e criando nosso módulo de autenticação (App delivery com pagamento por pix Gerencianet)
+	Aula: Customizando o DIO para envio certificado e autenticação na Gerencianet
+	Aula: Implementando módulo de produtos e primeira parte do módulo de pedidos
+	Aula: Parte 2 do pedido gerando cobrança pix na Gerencianet
+	Aula: Implementando serviço de webhook para confirmação de pagamento (Pix Gerencianet)
+	Aula: Colocando projeto em produção e configurando https  (Pix Gerencianet)
+	Aula: Configurando webhook e fazendo pagamento produção (Pix Gerencianet)
+Módulo: Designer Patterns
+	Aula: Singleton Pattern aplicado no mundo real, criando uma conexão com o banco de dados SQLite
+	Aula: Builder Pattern criando um CustomDIO
+	Aula: Prototype Pattern - Resolvendo problema de atualização do MobX
+	Aula: Factory Method - Criando uma fábrica de AlertDialog e como abrir  um Dialog sem contexto
+	Aula: Adapter - Criando um adaptador para converter XML em JSON com DIO
+	Aula: Composite Pattern - Criando um feed de Notícias com um player de Youtube
+	Aula: Strategy - Processando mensagens de push notification com o Strategy Pattern
+Módulo: Utilitários Para o Curso
+	Aula: Estrutura de Pastas de um projeto Flutter
+	Aula: Dart Cheatsheet
+	Aula: Cuidapet complementares
+	Aula: Atalhos do VsCode
+Módulo: Mentorias
+	Aula: Como converter um Json (2022-02-11)
+Módulo: DW #01
+	Aula: Live Dart Week - Aula 1 - Criando Projeto e Backend com Aqueduct
+	Aula: Live Dart Week - Aula 2 - Finalizando o Backend
+	Aula: Live - Dart Week - Aula 3 - Iniciando Aplicativo em Flutter
+	Aula: Live - Dart Week - Aula 4 - Finalizando Aplicativo em Flutter
+Módulo: DW #02
+	Aula: Aula 1
+	Aula: Aula 2
+	Aula: Aula 3
+	Aula: Aula 4
+	Aula: Aula 5
+Módulo: DW #03
+	Aula: Esquenta - Preparando o Ambiente
+	Aula: Esquenta - Introdução a Containers(Docker)
+	Aula: Esquenta - Introdução a Git e Markdown, Construindo uma documentação para seu Projeto
+	Aula: Esquenta - API Rest seus conceitos
+	Aula: Esquenta - Aula sobre Postman
+	Aula: Esquenta - Shelf, construindo um backend com Dart. Exemplos e Detalhes
+	Aula: Esquenta - Modelando banco de dados do app de delivery
+	Aula: DW - Aula 1
+	Aula: DW - Aula 2
+	Aula: DW - Aula 3
+	Aula: DW - Aula 4
+	Aula: DW - Aula 5
+	Aula: DW#3 - Live Construindo Backend em JAVA
+Módulo: Dart Week - 4ª edição
+	Aula: Live 001 - Esquenta
+	Aula: Live 002 - Esquenta
+	Aula: Aula 1
+	Aula: Aula 2
+	Aula: Aula 3
+	Aula: Aula 4
+	Aula: Aula 5
+	Aula: Aula 6
+	Aula: Live 004 - Construindo um serviço Rest em Dart com Shelf
+	Aula: Live 008 - Adicionando animação ao carregamento
+Módulo: Dart Week 5ª edição (2022 Ed1)
+	Aula: Esquenta Abertura
+	Aula: Esquenta Introdução ao Dart
+	Aula: Esquenta - Introdução ao Flutter
+	Aula: Esquenta - Introdução ao GetX
+	Aula: Assets
+	Aula: Dia 1
+	Aula: Dia 2
+	Aula: Dia 3
+	Aula: Dia 4
+	Aula: Dia 5
+Módulo: Por trás do Dart Week 5ª (2022 Ed1)
+	Aula: Sobre a infraestrutura
+	Aula: Configurações do projeto e estrutura de cache
+	Aula: Monitorando a aplicação (Criando as Métricas)
+	Aula: Configurando servidores de métricas (Prometheus e Grafana)
+	Aula: StressTest e montando gráficos no Grafana
+Módulo: Dart Week 7ª
+	Aula: Aula 1
+	Aula: Aula 2
+	Aula: Aula 3
+	Aula: Aula 4
+	Aula: Aula 5
+Módulo: Workshop Clean Arch.
+	Aula: Bem vindo ao Workshop
+	Aula: Introdução ao BlocProvider
+	Aula: Configurando o Backend para atender o projeto
+	Aula: Iniciando projeto e configurando dependências
+	Aula: Configurando flutter modular, asuka e flutter_screenutil
+	Aula: Configurando Firebase Core
+	Aula: Configurando Firebase Auth, Message e CloudFirestore
+	Aula: Encapsulando flutter_dotenv
+	Aula: Encapsulando LocalStorage
+	Aula: Encapsulando o DIO
+	Aula: Encapsulando o Logger
+	Aula: Core Module centralizando dependências compartilhadas
+	Aula: Clean Arch. conceito
+	Aula: Verificando se usuário está logado nosso primeiro caso de uso
+	Aula: Correção de bug no encapsulamento do shared_preferences
+	Aula: Atualizando versão dos packages
+	Aula: Criando Tema
+	Aula: Criando tela de Login
+	Aula: Criando componentes de TextFormField e ElevatedButton
+	Aula: Criando tela de cadastro
+	Aula: Criando lógica de controle dos passos do registro
+	Aula: Integrando com Bloc a tela de Registro no passo 1
+Módulo: Introdução
+	Aula: Boas Vindas
+	Aula: Acesso a comunidade
+	Aula: Regras da comunidade
+	Aula: Entenda um pouco sobre o discord
+	Aula: Sobre o curso
+Módulo: Configurando Ambiente de Desenvolvimento
+	Aula: Entendendo o módulo (Importante não pule esse vídeo)
+	Aula: Configurando ambiente Windows
+	Aula: Configurando ambiente Linux
+	Aula: Configurando ambiente MacOs
+	Aula: Habilitando device físico como emulador
+	Aula: FVM ou Flutter Nativo
+	Aula: Instalando Flutter Nativo
+	Aula: FVM Instalação e configuração
+	Aula: Dart e FVM
+	Aula: VsCode instalação e configuração do Dart e Flutter
+	Aula: Turbinando VsCode
+Módulo: Dart Fundamentos
+	Aula: DartPad
+	Aula: Conceitos importantes
+	Aula: Se você usa FVM (Assista essa aula antes de continuar)
+	Aula: Primeiro Projeto
+	Aula: Variáveis
+	Aula: Modificadores (Const e Final)
+	Aula: Operadores e condicionais
+	Aula: Switchs
+	Aula: Trabalhando com nulos
+	Aula: Listas
+	Aula: Loops
+	Aula: Conversões e Manipulações
+	Aula: Como fazer debug de uma aplicação
+	Aula: Desafio
+	Aula: Resolução do Desafio (Só assista se já tentou fazer o exercício)
+Módulo: Dart Funções e Coleções
+	Aula: Introdução
+	Aula: Funções, Parâmetros, Anônimas e Typedef
+	Aula: Listas
+	Aula: Referência de memória
+	Aula: Sets
+	Aula: Maps
+	Aula: Exceptions
+	Aula: Imports
+	Aula: Enums
+	Aula: Desafio
+	Aula: Resolução do Desafio (Só assista se já tentou fazer o exercício)
+Módulo: Dart POO( Programação Orientada a Objeto)
+	Aula: Fundamentos
+	Aula: Classes
+	Aula: Construtores
+	Aula: Herança
+	Aula: Associação (Composição e Agregação)
+	Aula: Polimorfismo
+	Aula: Interfaces
+	Aula: Auto Promoção de Tipos
+	Aula: Mixins
+	Aula: Cascade Notation
+	Aula: Callable Class
+	Aula: Operator Methods
+	Aula: Assignment operators
+	Aula: Equals, Hashcode e ToString
+	Aula: Ordenação default (Comparable)
+	Aula: Asserts
+	Aula: Modificador Const (Construtor)
+	Aula: Extensions
+	Aula: Metadatas (Annotations)
+	Aula: Getters e Setters
+	Aula: Constructors Tear-off
+	Aula: Tipos Genéricos
+Módulo: Dart Async
+	Aula: Async (Assincronismo)
+	Aula: Futures
+	Aula: Async Await
+	Aula: Future.forEach e Future.wait
+	Aula: Event Loop na VM Dart
+	Aula: Rest e RestFull
+	Aula: Adicionando códigos de terceiro ao nosso projeto pub.dev
+	Aula: Trabalhando com Http
+	Aula: Trabalhando com modelos
+	Aula: Repository Pattern
+	Aula: Trabalhando com Arquivos
+Módulo: Dart Streams
+	Aula: Introdução
+	Aula: Stream.periodic e await for
+	Aula: Parando uma Stream com Take e TakeWhile
+	Aula: Descartando dados com Skip e SkipWhile
+	Aula: .toList recebendo todos os dados de uma vez só
+	Aula: Escutando nossa stream com Listener
+	Aula: Filtrando dados com Where
+	Aula: Vários ouvintes na stream com .asBroadcast
+	Aula: StreamController
+Módulo: Dart Banco de dados
+	Aula: Instalação, criação do projeto e conexão com o banco de dados
+	Aula: Execução e criando transação (Commit e Rollback)
+Módulo: Dart Consumo de APIs
+	Aula: Princípios
+	Aula: Subindo backend dartion
+	Aula: Entendendo o porque existe cada camada
+	Aula: Interpretando nosso JSON e mapeando para o dart
+	Aula: Trabalhando com JSON no Dart
+	Aula: Convertendo JSON para Modelos - Aula muito importante!!!
+	Aula: Acessando nosso backend
+	Aula: Desafio
+Módulo: Dart desafio final
+	Aula: Desafio
+Módulo: Flutter primeiros passos
+	Aula: Criando emulador android
+	Aula: Criando seu primeiro projeto pela linha de comando e abrindo no Android Studio e VsCode
+	Aula: Criando seu primeiro projeto pelo Android Studio
+	Aula: Criando seu primeiro projeto no Visual Studio Code
+	Aula: Iniciando o emulador do IOS (Iphone) e Rodando o seu projeto nele
+	Aula: Preparando e rodando seu aplicativo no Aparelho Físico Android
+	Aula: Entendendo o projeto Flutter e suas dependências
+	Aula: Entendendo os canais (channels Stable, Beta, Master) do Flutter
+	Aula: Entendendo como atualizar o Flutter e seu projeto
+	Aula: Entendendo como fazer debug de uma aplicação Flutter
+Módulo: Flutter Fundamentos
+	Aula: O que é Flutter
+	Aula: Widget o que é
+	Aula: StatelessWidget e StatefulWidget
+	Aula: Árvore de Componentes
+	Aula: Ciclo de vida
+	Aula: Executando funções depois da tela pronta (addPostFrameCallback)
+Módulo: Flutter mão na massa
+	Aula: Principais Widgets
+	Aula: Container
+	Aula: Imagens
+	Aula: Customizando as fonts
+	Aula: Navegação
+	Aula: Navegação (Customizada e Observada)
+	Aula: Aguardar retorno de parâmetros na navegação
+	Aula: PopupMenuButton
+	Aula: Rows e Columns
+	Aula: MediaQuery
+	Aula: Device Preview Package
+	Aula: LayoutBuilder
+	Aula: Botões e Rotação de Texto
+	Aula: SingleChildScrollView e ListView
+	Aula: Dialogs
+	Aula: Identificando a plataforma e mostrando o componente correto
+	Aula: BuildContext
+	Aula: Theme (Customizando o seu Tema)
+	Aula: Snackbar (Mensagens para o usuário)
+	Aula: Trabalhando com formulários
+	Aula: Lendo arquivo json do Assets
+	Aula: Stack
+	Aula: BottomNavigatorBar & IndexedStack
+	Aula: CircleAvatar
+	Aula: Trabalhando com cores
+	Aula: Material Banner
+	Aula: Desafio
+Módulo: Flutter Gerência de Estado
+	Aula: O que vamos ver nesse módulo
+	Aula: Criando projeto e montando layout
+	Aula: Construindo tela com setState
+	Aula: Construindo tela com ValueNotifier
+	Aula: Construindo tela com ChangeNotifier
+	Aula: Construindo tela com Bloc Pattern(Stream)
+Módulo: InheritedWidget
+	Aula: Implementando InheritedWidget
+	Aula: Entendendo arvore de widgets com Dart DevTools
+Módulo: Sqlite com Flutter
+	Aula: Introdução e criação do projeto
+	Aula: Criando e acessando nossa base de dados
+	Aula: Entendendo como atualizar e voltar versão de banco de dados
+	Aula: Desabilitando auto backup de arquivos do android
+	Aula: Manipulando dados do Sqlite
+Módulo: Package Provider
+	Aula: Provider compartilhando objetos simples
+	Aula: Gerenciando estado com Provider
+Módulo: TodoList Provider e SQLIte em arquitetura de Módulos
+	Aula: Assets do Projeto
+	Aula: Apresentação do projeto
+	Aula: Criando projeto e configurando arquitetura de pastas
+	Aula: Configurando SqliteConnection SqliteADM e Migrations
+	Aula: Arquitetura de Módulos
+	Aula: Construindo layout de Login e configurando tema
+	Aula: Customizando o TextFormField
+	Aula: Construindo layout de tela de cadastro
+	Aula: Adicionando Firebase Auth ao Projeto
+	Aula: Construindo Repository e Service de usuário
+	Aula: Conectando RegisterController aos nossos serviços
+	Aula: Criando utilitários de controle de loader, success, error
+	Aula: Integrando tela de login
+	Aula: Implementando esqueceu sua senha
+	Aula: Google Login
+	Aula: Navegação sem Contexto e configurando home e splash
+	Aula: Identificando de usuário está logado
+	Aula: Alterando nome do usuário
+	Aula: Construindo layout da nossa HomePage
+	Aula: Módulo de cadastro de task
+	Aula: Implementando componente de Filtros de dias
+	Aula: Busca de Tasks (Repository e Service)
+	Aula: Correção na verificação da autenticação
+	Aula: Buscando todos e populando card de filtro
+	Aula: Implementando filtros de tasks
+	Aula: Implementando filtro de dia da semana
+	Aula: Correção do filtro por dia da semana
+	Aula: Finalizando a task e implementando filtro de finalizados
+	Aula: Resolvendo problema de layout no header
+	Aula: Desafio
+	Aula: Entendendo arquitetura e estrutura de pastas
+Módulo: Freezed
+	Aula: Estrutura
+	Aula: Union class e Pattern matching
+Módulo: Bloc
+	Aula: Princípios
+	Aula: Criando nosso primeiro bloc
+	Aula: Um pouco mais de bloc
+	Aula: Entendendo outros widgets do bloc
+	Aula: Enviando parâmetros pelo evento
+	Aula: Desafio
+	Aula: Freezed
+	Aula: Configurando backend para o CRUD
+	Aula: Criando nosso modelo e repository
+	Aula: Implementando busca de contatos
+	Aula: Tratando erros e criando componente de loader
+	Aula: Adicionando pull refresh e direcionamentos para telas
+	Aula: Cadastrando um novo contato
+	Aula: Alterando um contato
+	Aula: Desafio
+	Aula: Resolução do desafio
+	Aula: Cubit
+	Aula: Desafio
+	Aula: Bloc Test (Testes Unitários)
+	Aula: Desafio de testes
+Módulo: Mobx
+	Aula: Fundamentos do Mobx
+	Aula: Mobx com CodeGen e Reactions
+	Aula: Calculadora de IMC com Mobx
+	Aula: ObservableList
+	Aula: Modelo Observado
+	Aula: ObservableFuture
+Módulo: Flutter Modular
+	Aula: Fundamento e configurações
+	Aula: Tipos de Rotas & Navegação
+	Aula: Controle e injeção de dependências
+	Aula: ModularState e Diposable
+Módulo: Splash Screen Nativa
+	Aula: Splash nativa no android
+	Aula: Splash nativa no IOS
+	Aula: Flutter native splash
+Módulo: Firebase
+	Aula: O que é o Firebase e quanto custa
+	Aula: Configurando nosso primeiro projeto no console do Firebase
+	Aula: Configurando Firebase no projeto Flutter
+	Aula: [Firebase-auth] Configurando Firebase Auth e criando um novo usuário
+	Aula: [Firebase-auth] Login com e-mail e senha e verificação de email
+	Aula: [Firebase-auth] Alterando dados complementares do usuário [Nome, foto, email, password]
+	Aula: [Firebase-auth]  Recuperando o usuário logado e registrando um listener de alteração de dados do usuário
+Módulo: Cuidapet 2.0
+	Aula: Apresentação do Projeto
+	Aula: Subindo backend para atender o cuidapet
+	Aula: Criando e configurando projeto e suas dependências
+	Aula: SplashScreen e encapsulamento do screenUtils
+	Aula: Configurando Tema
+	Aula: Iniciando identificação usuário logado
+	Aula: Criando componente de TextField
+	Aula: Adicionando icones ao projeto
+	Aula: Criando componente de botão de rede social
+	Aula: Criando botão default da aplicação
+	Aula: Layout Tela de Login
+	Aula: Layout tela de cadastro por login e senha
+	Aula: Entendendo o fluxo de cadastro de um novo usuário
+	Aula: Resolvendo problema do ScreenUtil e Firebase oAuth2 client already exists
+	Aula: Configurando firebase ao projeto
+	Aula: Configurando variáveis de ambiente (env e remote config)
+	Aula: Encapsulando nosso RestClient (DIO)
+	Aula: Encapsulando logs da aplicação
+	Aula: Encapsulando LocalStorage
+	Aula: Componente de Loader
+	Aula: Componente de Mensagem (Snackbar com Asuka)
+	Aula: Implementando tela de cadastro por e-mail e senha
+	Aula: Conectando tela de cadastro ao backend e firebase
+	Aula: Entendendo o Fluxo de login do Cuidapet
+	Aula: Implementando tela de login (Ligando os pontos)
+	Aula: Login E-mail e Password parte 1 (Firebase)
+	Aula: Login E-mail e Password parte 2 (Backend Login)
+	Aula: AuthInterceptor - adicionando token no header das requisições
+	Aula: Confirmar login e FirebaseMessage
+	Aula: Recuperar dados do usuário logado
+	Aula: Identificando se o usuário já está logado (Login permanente)
+	Aula: Login com rede social (Google parte 1)
+	Aula: Login com rede social (Google parte 2)
+	Aula: Login com rede social (Facebook configuração)
+	Aula: Login com rede social (Facebook finalizando)
+	Aula: Refresh token entendendo o fluxo
+	Aula: Alterando backend para atender o desenvolvimento do refresh token
+	Aula: Implementando Refresh Token
+	Aula: Voltando alterações no backend
+	Aula: Removendo ModularState do projeto
+	Aula: LifeCyclePage - Entendendo processo
+	Aula: LifeCyclePage - Construção
+	Aula: Iniciando módulo de endereço (Montando tela)
+	Aula: Atualizando projeto para Flutter 3
+	Aula: Criando componente de auto_complete
+	Aula: Integrando com Google Places
+	Aula: Finalizando auto_complete e lincando com google places
+	Aula: Configurando Google Maps API
+	Aula: Construindo tela de detalhe de endereço
+	Aula: Configurando Sqlite
+	Aula: Construindo camadas de inclusão de endereço ao sqlite
+	Aula: Cadastrando endereço no sqlite
+	Aula: Buscando endereços cadastrados
+	Aula: Configurando packages de GPS (Geolocation)
+	Aula: Recuperando localização do usuário
+	Aula: Mostrando mensagens de GPS para o usuário
+	Aula: Problema com mobx versão 2.0.7+4
+	Aula: Editando endereço
+	Aula: Selecionando endereço e adicionando o Local Storage
+	Aula: Adicionando componente correto na lista de endereços
+	Aula: Acertos no logout do nosso projeto
+	Aula: Buscando endereço selecionado
+	Aula: Bloqueando saída da tela endereço sem selecionar um endereço
+	Aula: Construindo AppBar da HomePage
+	Aula: Implementando componente de apresentação do endereço
+	Aula: Criando componente de categorias
+	Aula: Construindo busca das categorias no backend
+	Aula: Conectando tela com serviço (categorias)
+	Aula: Criando componentes de Tab (Lista e Grid)
+	Aula: Implementando layout da lista de Pet Shops
+	Aula: Buscando petshops no nosso backend
+	Aula: Fazendo o Link entre tela e backend (Modelo)
+	Aula: Construindo grid de petshops
+	Aula: Conectando dados a tela de grid
+	Aula: Filtrando estabelecimentos por categoria
+	Aula: Filtro por nome
+	Aula: Criando módulo de detalhe de fornecedor
+	Aula: Criando layout da tela de detalhe do fornecedor
+	Aula: Adicionando titulo quando appBar Collapsed
+	Aula: CodeView da implementação
+Módulo: Backend Cuidapet em Dart
+	Aula: Introdução a Backend
+	Aula: Get_it e Injectable principais conceitos
+	Aula: Arquitetura do nosso backend
+	Aula: Informação importante sobre Refactory
+Módulo: Backend - Iniciando nosso projeto (Configuração/Arquitetura)
+	Aula: Instalação e configuração do Dart
+	Aula: Criando o projeto
+	Aula: Configurando variáveis locais (.env)
+	Aula: Configurando Banco de dados mysql
+	Aula: Configurando estrutura de Logs
+	Aula: Configurando Service Locator (get_it, injectable)
+	Aula: Configurando estrutura de Rotas (Shelf-Router)
+Módulo: Backend - Middlewares
+	Aula: Introdução a middlewares no shelf
+	Aula: Construindo Middleware de Cors
+	Aula: Middleware de Default Content Type Response
+	Aula: JWT - Conceitos
+	Aula: Middleware de segurança
+Módulo: Backend - Módulo usuário
+	Aula: Modelagem de dados
+	Aula: Registrar usuário
+	Aula: Login com e-mail e password
+	Aula: Login social
+	Aula: Confirmar login
+	Aula: Postman atualizar variável dinamicamente
+	Aula: Refresh Token
+	Aula: Recuperar usuário logado
+	Aula: Atualizar url avatar
+	Aula: Atualização do Device Token (Para Push Notification)
+Módulo: Backend - Módulo de categorias
+	Aula: Construindo módulo
+	Aula: Construindo Serviço de Buscar todas categorias
+Módulo: Backend - Módulo de Fornecedores
+	Aula: Criando e configurando módulo
+	Aula: Busca de fornecedores por GeoLocation
+	Aula: Busca de fornecedor por id
+	Aula: Buscar serviços de um fornecedor
+	Aula: Verificar se email do usuário existe
+	Aula: Criando novo Fornecedor e usuário
+	Aula: Atualizando dados do Fornecedor
+Módulo: Backend - Migrando Mysql para Null Safety
+	Aula: Migrando Driver do Mysql para Null Safety
+Módulo: Backend - Módulo de Agendamento
+	Aula: Criando módulo
+	Aula: Agendando serviço em um fornecedor
+	Aula: Alterando status do agendamento
+	Aula: Buscar todos agendamentos pelo usuário logado
+	Aula: Buscar todos agendamentos pelo usuário de fornecedor logado
+Módulo: Backend - Módulo de Chat
+	Aula: Criando módulo
+	Aula: Iniciando um chat
+	Aula: Notificando usuário por push
+	Aula: Buscando chats ativos do usuário
+	Aula: Buscando chats ativos do fornecedor
+	Aula: Finalizando um Chat
+Módulo: Backend - Removendo no sound null safety
+	Aula: Acertos para remover o no sound null safety
+Módulo: Publicando Backend na AWS
+	Aula: Apresentação da AWS e criando usuário
+	Aula: Criando o banco de dados no RDS
+	Aula: Criando nosso servidor no EC2
+	Aula: Instalando Dart no servidor
+	Aula: Configurando a Aplicação
+	Aula: Configurando logs e redirecionando para sub-dominio
+	Aula: Escalando sua Aplicação (Vertical e Horizontal)
+Módulo: Testes - Princípios dos Testes
+	Aula: Principais Conceitos
+	Aula: Iniciando no mundo dos testes de unidade
+	Aula: Explorando tipos de verificações
+	Aula: Testando método Assincronos
+	Aula: Introdução a Mocks
+Módulo: Testes - Cuidapet API preparando a arquitetura base dos testes
+	Aula: Adicionando suporte a testes ao projeto
+	Aula: Criando estrutura de fixture test
+	Aula: Introdução ao Mock do MySql
+	Aula: Melhorando arquitetura de mocks do MySql
+Módulo: Testes - Módulo de login do Cuidapet (Repository)
+	Aula: Testando o método createUser
+	Aula: Testando método  loginWithEmailPassword
+	Aula: Testando método loginByEmailSocialKey
+Módulo: Testes - Módulo de Login Cuidapet (Service)
+	Aula: Testando método loginWithEmailPassword
+	Aula: Testando método loginWithSocial
+	Aula: Testando método refreshToken
+Módulo: Testes - Módulo de Login Cuidapet (AuthController)
+	Aula: Testando serviço de login com email e password
+	Aula: Testando servidor de login com rede social
+Módulo: Testes - Módulo de Usuário Cuidapet (UserController)
+	Aula: Testando método update device token
+Módulo: Lives & Conteúdos extras
+	Aula: Construindo uma aplicação com Flutter Bloc e Flutter Modular com arquitetura orientada a package.
+	Aula: Introdução a testes de Widgets e testes Unitários - Live junto com Pedro Massango
+	Aula: Cubit, Freezed e Dartz a triade perfeita (Palestra TDC 2020)
+	Aula: [Live #001] - DIO
+	Aula: [Live #002] - Null Safety
+	Aula: Flutter Navigator 2.0 - Criando um formulário de múltiplos passos (multistep form)
+	Aula: Palestra do Porque usar o Flutter
+	Aula: Palestra Flutter revolucionando o desenvolvimento de aplicativos
+	Aula: FVM - Trabalhando com versões antigas do Flutter
+Módulo: Dicas Rápidas Flutter e Dart
+	Aula: Copy and Paste (Clipboard) sem utilização de package
+Módulo: App Delivery (Com GetX, Shelf  e integração API PIX da Gerencianet)
+	Aula: Apresentando o projeto e configurando servidores de DNS e EC2 AWS
+	Aula: Estruturando banco de dados e criando nosso módulo de autenticação (App delivery com pagamento por pix Gerencianet)
+	Aula: Customizando o DIO para envio certificado e autenticação na Gerencianet
+	Aula: Implementando módulo de produtos e primeira parte do módulo de pedidos
+	Aula: Parte 2 do pedido gerando cobrança pix na Gerencianet
+	Aula: Implementando serviço de webhook para confirmação de pagamento (Pix Gerencianet)
+	Aula: Colocando projeto em produção e configurando https  (Pix Gerencianet)
+	Aula: Configurando webhook e fazendo pagamento produção (Pix Gerencianet)
+Módulo: Designer Patterns
+	Aula: Singleton Pattern aplicado no mundo real, criando uma conexão com o banco de dados SQLite
+	Aula: Builder Pattern criando um CustomDIO
+	Aula: Prototype Pattern - Resolvendo problema de atualização do MobX
+	Aula: Factory Method - Criando uma fábrica de AlertDialog e como abrir  um Dialog sem contexto
+	Aula: Adapter - Criando um adaptador para converter XML em JSON com DIO
+	Aula: Composite Pattern - Criando um feed de Notícias com um player de Youtube
+	Aula: Strategy - Processando mensagens de push notification com o Strategy Pattern
+Módulo: Utilitários Para o Curso
+	Aula: Estrutura de Pastas de um projeto Flutter
+	Aula: Dart Cheatsheet
+	Aula: Cuidapet complementares
+	Aula: Atalhos do VsCode
+Módulo: Mentorias
+	Aula: Como converter um Json (2022-02-11)
+Módulo: DW #01
+	Aula: Live Dart Week - Aula 1 - Criando Projeto e Backend com Aqueduct
+	Aula: Live Dart Week - Aula 2 - Finalizando o Backend
+	Aula: Live - Dart Week - Aula 3 - Iniciando Aplicativo em Flutter
+	Aula: Live - Dart Week - Aula 4 - Finalizando Aplicativo em Flutter
+Módulo: DW #02
+	Aula: Aula 1
+	Aula: Aula 2
+	Aula: Aula 3
+	Aula: Aula 4
+	Aula: Aula 5
+Módulo: DW #03
+	Aula: Esquenta - Preparando o Ambiente
+	Aula: Esquenta - Introdução a Containers(Docker)
+	Aula: Esquenta - Introdução a Git e Markdown, Construindo uma documentação para seu Projeto
+	Aula: Esquenta - API Rest seus conceitos
+	Aula: Esquenta - Aula sobre Postman
+	Aula: Esquenta - Shelf, construindo um backend com Dart. Exemplos e Detalhes
+	Aula: Esquenta - Modelando banco de dados do app de delivery
+	Aula: DW - Aula 1
+	Aula: DW - Aula 2
+	Aula: DW - Aula 3
+	Aula: DW - Aula 4
+	Aula: DW - Aula 5
+	Aula: DW#3 - Live Construindo Backend em JAVA
+Módulo: Dart Week - 4ª edição
+	Aula: Live 001 - Esquenta
+	Aula: Live 002 - Esquenta
+	Aula: Aula 1
+	Aula: Aula 2
+	Aula: Aula 3
+	Aula: Aula 4
+	Aula: Aula 5
+	Aula: Aula 6
+	Aula: Live 004 - Construindo um serviço Rest em Dart com Shelf
+	Aula: Live 008 - Adicionando animação ao carregamento
+Módulo: Dart Week 5ª edição (2022 Ed1)
+	Aula: Esquenta Abertura
+	Aula: Esquenta Introdução ao Dart
+	Aula: Esquenta - Introdução ao Flutter
+	Aula: Esquenta - Introdução ao GetX
+	Aula: Assets
+	Aula: Dia 1
+	Aula: Dia 2
+	Aula: Dia 3
+	Aula: Dia 4
+	Aula: Dia 5
+Módulo: Por trás do Dart Week 5ª (2022 Ed1)
+	Aula: Sobre a infraestrutura
+	Aula: Configurações do projeto e estrutura de cache
+	Aula: Monitorando a aplicação (Criando as Métricas)
+	Aula: Configurando servidores de métricas (Prometheus e Grafana)
+	Aula: StressTest e montando gráficos no Grafana
+Módulo: Dart Week 7ª
+	Aula: Aula 1
+	Aula: Aula 2
+	Aula: Aula 3
+	Aula: Aula 4
+	Aula: Aula 5
+Módulo: Workshop Clean Arch.
+	Aula: Bem vindo ao Workshop
+	Aula: Introdução ao BlocProvider
+	Aula: Configurando o Backend para atender o projeto
+	Aula: Iniciando projeto e configurando dependências
+	Aula: Configurando flutter modular, asuka e flutter_screenutil
+	Aula: Configurando Firebase Core
+	Aula: Configurando Firebase Auth, Message e CloudFirestore
+	Aula: Encapsulando flutter_dotenv
+	Aula: Encapsulando LocalStorage
+	Aula: Encapsulando o DIO
+	Aula: Encapsulando o Logger
+	Aula: Core Module centralizando dependências compartilhadas
+	Aula: Clean Arch. conceito
+	Aula: Verificando se usuário está logado nosso primeiro caso de uso
+	Aula: Correção de bug no encapsulamento do shared_preferences
+	Aula: Atualizando versão dos packages
+	Aula: Criando Tema
+	Aula: Criando tela de Login
+	Aula: Criando componentes de TextFormField e ElevatedButton
+	Aula: Criando tela de cadastro
+	Aula: Criando lógica de controle dos passos do registro
+	Aula: Integrando com Bloc a tela de Registro no passo 1
